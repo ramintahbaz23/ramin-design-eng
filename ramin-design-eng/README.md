@@ -7,7 +7,7 @@ Built by [Ramin Tahbaz](https://ramintahbaz.com).
 ## Install
 
 ```bash
-npx skills add rtahbaz/ramin-design-eng
+npx skills add ramintahbaz23/ramin-design-eng
 ```
 
 ## What it covers
@@ -22,9 +22,7 @@ npx skills add rtahbaz/ramin-design-eng
 
 ## Philosophy
 
-Interfaces should disappear. The best UI is the one the user never thinks about — they came to do something, and they did it. Every decision in this skill exists to remove friction between intention and completion.
-
-Clarity over decoration. Details compound.
+Built for users who want software to disappear, and the engineers who believe it should.
 
 ## Usage
 
